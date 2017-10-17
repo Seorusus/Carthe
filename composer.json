@@ -24,7 +24,8 @@
         "drupal/bootstrap": "^3.6",
         "drupal/views_bootstrap": "^3.0",
         "drupal/pdf": "1.x-dev",
-        "drupal/pdf_reader": "1.x-dev"
+        "drupal/pdf_reader": "1.x-dev",
+        "drupal/devel": "^1.2"
     },
     "replace": {
         "drupal/core": "^8.4"
