@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "33adf9ae9415f13d7d7410d44e235236",
+    "content-hash": "a195e3485d1435f2afbe752a922364ba",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -980,6 +980,53 @@
             "homepage": "https://www.drupal.org/project/bootstrap",
             "support": {
                 "source": "http://cgit.drupalcode.org/bootstrap"
+            }
+        },
+        {
+            "name": "drupal/breadcrumb_menu",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupal.org/project/breadcrumb_menu",
+                "reference": "8.x-1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/breadcrumb_menu-8.x-1.0.zip",
+                "reference": "8.x-1.0",
+                "shasum": "dba8a3308f72522cc079e1bb4172dd8afd1e5cfa"
+            },
+            "require": {
+                "drupal/core": "~8.0"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.0",
+                    "datestamp": "1449146339",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "casey",
+                    "homepage": "https://www.drupal.org/user/32403"
+                }
+            ],
+            "description": "Alters the breadcrumb trail so it uses menu link titles (if available) instead of page titles.",
+            "homepage": "http://drupal.org/project/breadcrumb_menu",
+            "support": {
+                "source": "http://cgit.drupalcode.org/breadcrumb_menu"
             }
         },
         {
