@@ -29,7 +29,8 @@
         "drupal/menu_block": "^1.4",
         "drupal/drupal8_zymphonies_theme": "^1.0",
         "drupal/sharethis": "^2.0@beta",
-        "drupal/easy_breadcrumb": "^1.6"
+        "drupal/easy_breadcrumb": "^1.6",
+        "drupal/breadcrumb_menu": "^1.0"
     },
     "replace": {
         "drupal/core": "^8.4"
