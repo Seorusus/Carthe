@@ -27,7 +27,8 @@
         "drupal/pdf_reader": "1.x-dev",
         "drupal/devel": "^1.2",
         "drupal/menu_block": "^1.4",
-        "drupal/drupal8_zymphonies_theme": "^1.0"
+        "drupal/drupal8_zymphonies_theme": "^1.0",
+        "drupal/sharethis": "^2.0@beta"
     },
     "replace": {
         "drupal/core": "^8.4"
