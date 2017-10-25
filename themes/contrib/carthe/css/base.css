@@ -32,3 +32,6 @@ h2.block-title {
   font-family: Verdana, Helvetica, Arial, sans-serif;
   letter-spacing: -0.05em;
 }
+div.main_container {
+  width: 960px;
+}
