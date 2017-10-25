@@ -23,3 +23,12 @@ div.col-md-3 {
   border-radius: 8px;
   padding: 15px 20px;
 }
+h2.block-title {
+  font-size: 24px;
+  color: #FFF;
+  font-weight: normal;
+  margin-bottom: 10px;
+  margin: 0;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  letter-spacing: -0.05em;
+}
