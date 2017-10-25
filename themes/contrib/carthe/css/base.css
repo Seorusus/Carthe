@@ -1,0 +1,25 @@
+body {
+  min-width: 960px;
+  color: #666666;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  background-color: #e9eaec;
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  display: block;
+}
+div.col-md-3 {
+  background-color: #cd071e;
+  border-radius: 8px;
+  padding: 15px 20px;
+}
