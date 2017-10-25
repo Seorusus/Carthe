@@ -7376,3 +7376,6 @@ p:last-child,
 .control-group .help-inline:first-child {
   margin-top: 0;
 }
+body {
+  background: #d4d4d4;
+}
