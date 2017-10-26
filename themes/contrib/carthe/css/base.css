@@ -46,11 +46,11 @@ div.main_container {
   padding-right: 15px;
 }
 .navbar-default {
-  background-color: #cd071e;
   margin: 0;
   background: none;
   z-index: 2;
 }
 .navbar {
   min-height: 15px;
+  background-color: #cd071e;
 }

@@ -51,11 +51,7 @@ ul.links.inline li{
 }
 
 .main-header{
-  background: url(../images/welcome_banner_bg.jpg);  
-  color: #fff;
-  padding: 10px 0;
-  margin-bottom: 20px;
-  background-size: cover;
+
   position: relative;
 }
 
