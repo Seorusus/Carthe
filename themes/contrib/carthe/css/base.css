@@ -118,4 +118,9 @@ li.leaf {
   margin-bottom: 0;
   font-family: Verdana, Helvetica, Arial, sans-serif;
   font-weight: bold;
+  padding-top: 7px;
+}
+.title-post-date {
+  font-size: 11px;
+  padding-top: 0;
 }
