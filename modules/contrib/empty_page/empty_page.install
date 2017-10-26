@@ -1,0 +1,64 @@
+<?php
+/**
+ * @file
+ * Installation file.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function empty_page_install() {
+  // When menu items are being retrieved, Empty Page's routes
+  // to come last so that path overrides work.
+  module_set_weight('empty_page', 1000);
+}
+/**
+ * Implements hook_schema().
+ */
+function empty_page_schema() {
+  $schema['empty_page'] = [
+    'description' => 'The base table for empty_page callbacks.',
+    'fields' => [
+      'cid' => [
+        'type' => 'serial',
+        'unsigned' => TRUE,
+        'not null' => TRUE,
+      ],
+      'path' => [
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ],
+      'page_title' => [
+        'type' => 'varchar',
+        'length' => 128,
+        'not null' => TRUE,
+        'default' => '',
+      ],
+      'data' => [
+        'type' => 'text',
+        'not null' => FALSE,
+        'size' => 'big',
+      ],
+      'changed' => [
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ],
+      'created' => [
+        'type' => 'int',
+        'not null' => TRUE,
+        'default' => 0,
+      ],
+    ],
+    'indexes' => [
+      'changed' => ['changed'],
+    ],
+    'unique keys' => [
+      'cid' => ['cid'],
+    ],
+    'primary key' => ['cid'],
+  ];
+  return $schema;
+}
