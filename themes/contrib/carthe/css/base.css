@@ -95,20 +95,13 @@ li.leaf {
   font-weight: normal;
   margin-bottom: 10px;
 }
-.region-sidebar-second .block .views-field-title a,
-.region-sidebar-second .block .views-field-title a:link,
-.region-sidebar-second .block .views-field-title a:visited {
+.region-sidebar-second .block .views-field-title a {
   color: #FFF;
   font-size: 13px;
   font-weight: normal;
   line-height: 18px;
 }
-.region-sidebar-second .block .view .views-field-view-node a,
-.region-sidebar-second .block .view .views-field-view-node a:link,
-.region-sidebar-second .block .view .views-field-view-node a:visited,
-.region-sidebar-second .block .view .more-link a,
-.region-sidebar-second .block .view .more-link a:link,
-.region-sidebar-second .block .view .more-link a:visited {
+.region-sidebar-second .block .views-field-view-node a {
   text-decoration: underline;
   color: #E6838E;
 }
