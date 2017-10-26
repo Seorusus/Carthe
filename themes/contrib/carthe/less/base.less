@@ -59,16 +59,44 @@ div.main_container{
 }
 
 
-
-ul.menu li, ul.menu li.collapsed, ul.menu li.expanded{
+ul.menu li, ul.menu li.collapsed, ul.menu li.expanded {
   list-style-image: url(/themes/contrib/carthe/images/list-arrow.jpg);
-  line-height: 25px;
-
 }
 
-ul.menu li a{
-  color: #FFF;
+ul li.collapsed {
+  list-style-type: disc;
 }
+
+ul.menu a{
+  color: #666666;
+  line-height: 2em;
+}
+
+ul.menu a, ul.menu a:link, ul.menu a:visited {
+  color: #333333;
+}
+
+
+ul.menu a.active-trail {
+  color: #CD071E;
+}
+
+ul li.expanded {
+  list-style-type: circle;
+}
+ul.menu li {
+  margin: 0 0 0 0.5em;
+}
+
+.menu li {
+  list-style: none;
+}
+
+li.expanded, li.collapsed, li.leaf {
+  padding: 0.2em 0.5em 0 0;
+}
+
+
 .region-sidebar-second {
   background-color: #cd071e;
   border-radius: 8px;
