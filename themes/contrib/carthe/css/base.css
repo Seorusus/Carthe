@@ -114,4 +114,8 @@ li.leaf {
 .title-header a {
   font-size: 16px;
   color: #333333;
+  letter-spacing: -0.05em;
+  margin-bottom: 0;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-weight: bold;
 }
