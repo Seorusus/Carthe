@@ -55,8 +55,20 @@ ul.menu li.collapsed,
 ul.menu li.expanded {
   list-style-image: url(/themes/contrib/carthe/images/list-arrow.jpg);
 }
+ul.menu ul.menu li:before,
+ul.menu ul.menu li.collapsed:before,
+ul.menu ul.menu li.expanded:before {
+  content: "•";
+  color: #CD071E;
+  margin-left: -1em;
+  margin-right: 0.5em;
+}
 ul li.collapsed {
   list-style-type: disc;
+}
+ul.menu ul.menu li.leaf {
+  list-style: none;
+  list-style-image: none;
 }
 ul.menu a {
   color: #666666;
@@ -111,6 +123,7 @@ li.leaf {
   text-decoration: underline;
   color: #E6838E;
   line-height: 3em;
+  text-align: right;
 }
 .title-header a {
   font-size: 16px;
@@ -125,8 +138,8 @@ li.leaf {
 }
 img {
   vertical-align: middle;
-  width: 45%;
-  height: 45%;
+  width: 50%;
+  height: 50%;
   float: left;
   padding: 10px;
 }
