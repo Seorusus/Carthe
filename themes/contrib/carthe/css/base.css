@@ -36,7 +36,6 @@ div.main_container {
   width: 960px;
   margin: auto;
   background: #fff;
-  padding: 10px;
 }
 .container {
   width: 100%;
@@ -47,10 +46,13 @@ div.main_container {
 }
 .navbar-default {
   margin: 0;
-  background: none;
   z-index: 2;
 }
 .navbar {
   min-height: 15px;
   background-color: #cd071e;
+}
+#wrapper {
+  padding-left: 15px;
+  padding-right: 15px;
 }
