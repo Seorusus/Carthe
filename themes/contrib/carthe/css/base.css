@@ -164,7 +164,7 @@ ul.menu li {
   padding-bottom: 10px;
   line-height: 1em;
 }
-.breadcrumbs a {
+.breadcrumbs ul li a {
   color: #CD071E;
 }
 #block-carthe-fbicon-2 {
