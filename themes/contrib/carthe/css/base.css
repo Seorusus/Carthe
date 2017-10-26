@@ -164,7 +164,11 @@ ul.menu li {
   padding-bottom: 10px;
   line-height: 1em;
 }
-#main-menu li.last a {
-  background: url(/themes/contrib/carthe/images/facebook.png) no-repeat top right;
-  padding: 3px 23px 3px 0;
+.breadcrumbs a {
+  color: #CD071E;
+}
+#block-carthe-fbicon-2 {
+  position: absolute;
+  right: 3px;
+  top: 10px;
 }
