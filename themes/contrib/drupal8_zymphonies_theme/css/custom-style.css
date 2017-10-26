@@ -309,6 +309,8 @@ nav h2{
 .menu-base-theme a:active, 
 .menu-base-theme a.highlighted{
   background: none;
+  color: #000;
+  float: right;
 }
 
 .menu-base-theme li a{
