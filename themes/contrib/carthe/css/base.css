@@ -105,8 +105,13 @@ li.leaf {
   text-decoration: underline;
   color: #E6838E;
 }
-.footer-more-link {
+.footer-more-link,
+.footer-more-link a {
   padding-top: 5px;
   text-decoration: underline;
   color: #E6838E;
+}
+.views-field-title {
+  font-size: 16px;
+  color: #333333;
 }
