@@ -34,4 +34,14 @@ div.col-md-3 {
 }
 div.main_container {
   width: 960px;
+  margin: auto;
+  background: #fff;
+  padding: 10px;
+}
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
