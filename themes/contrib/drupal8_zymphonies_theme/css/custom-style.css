@@ -311,6 +311,7 @@ nav h2{
   background: none;
   color: #000;
   float: right;
+  z-index:5;
 }
 
 .menu-base-theme li a{
