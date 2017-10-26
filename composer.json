@@ -32,7 +32,8 @@
         "drupal/easy_breadcrumb": "^1.6",
         "drupal/breadcrumb_menu": "^1.0",
         "drupal/editor_advanced_link": "^1.4",
-        "twbs/bootstrap": "^3.3"
+        "twbs/bootstrap": "^3.3",
+        "drupal/empty_page": "^1.1"
     },
     "replace": {
         "drupal/core": "^8.4"
