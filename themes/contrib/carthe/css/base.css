@@ -164,7 +164,7 @@ ul.menu li {
   padding-bottom: 10px;
   line-height: 1em;
 }
-.block-menu-menu-top ul.menu li.last a {
+#main-menu li.last a {
   background: url(/themes/contrib/carthe/images/facebook.png) no-repeat top right;
   padding: 3px 23px 3px 0;
 }
