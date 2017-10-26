@@ -87,7 +87,7 @@ li.leaf {
 .region-sidebar-second {
   background-color: #cd071e;
   border-radius: 8px;
-  padding: 15px 20px;
+  padding: 1px 20px;
 }
 .region-sidebar-second h2 {
   font-size: 24px;
@@ -102,6 +102,11 @@ li.leaf {
   line-height: 18px;
 }
 .region-sidebar-second .block .views-field-view-node a {
+  text-decoration: underline;
+  color: #E6838E;
+}
+.footer-more-link {
+  padding-top: 5px;
   text-decoration: underline;
   color: #E6838E;
 }
