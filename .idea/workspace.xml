@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/themes/contrib/carthe/less/base.less" line="136" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3be28c63-a13d-4295-acfe-501e94671216" name="Default" comment="" />
+    <list default="true" id="3be28c63-a13d-4295-acfe-501e94671216" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/base.css" afterPath="$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/base.css" />
+    </list>
     <ignored path="repository.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -37,21 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2475">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="3195">
+              <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +79,7 @@
         <option value="$PROJECT_DIR$/themes/contrib/carthe/less/base.less" />
         <option value="$PROJECT_DIR$/themes/contrib/carthe/carthe.libraries.yml" />
         <option value="$PROJECT_DIR$/themes/contrib/carthe/carthe.info.yml" />
+        <option value="$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/base.css" />
       </list>
     </option>
   </component>
@@ -504,7 +497,7 @@
       <workItem from="1509003026988" duration="20603000" />
       <workItem from="1509027925264" duration="8966000" />
       <workItem from="1509095784411" duration="9000" />
-      <workItem from="1509095825028" duration="12757000" />
+      <workItem from="1509095825028" duration="13016000" />
     </task>
     <task id="LOCAL-00011" summary="makeup 2">
       <created>1508946602820</created>
@@ -853,7 +846,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58781000" />
+    <option name="totallyTimeSpent" value="59040000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1268,22 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/contrib/carthe/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/contrib/carthe/config/schema/carthe.schema.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1328,6 +1305,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2475">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/carthe/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/contrib/drupal8_zymphonies_theme/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
           <folding />
         </state>
       </provider>
