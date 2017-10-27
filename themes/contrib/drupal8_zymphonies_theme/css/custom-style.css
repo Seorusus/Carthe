@@ -51,11 +51,7 @@ ul.links.inline li{
 }
 
 .main-header{
-  background: url(../images/welcome_banner_bg.jpg);  
-  color: #fff;
-  padding: 10px 0;
-  margin-bottom: 20px;
-  background-size: cover;
+
   position: relative;
 }
 
@@ -70,7 +66,7 @@ ul.links.inline li{
 }
 
 .main-header nav{
-  background: none;
+
   border: 0;
   margin: 0;
   position: relative;
@@ -313,6 +309,10 @@ nav h2{
 .menu-base-theme a:active, 
 .menu-base-theme a.highlighted{
   background: none;
+  color: #000;
+  float: right;
+  z-index: 5;
+  padding: 5px;
 }
 
 .menu-base-theme li a{

@@ -786,10 +786,10 @@ $settings['entity_update_batch_size'] = 50;
 $databases['default']['default'] = array (
   'database' => 'pantheon',
   'username' => 'pantheon',
-  'password' => 'e2e4d308c4b24b7195c2b3532d4a836b',
+  'password' => '7859dc4a247c483ca766e831edd5b8a6',
   'prefix' => '',
-  'host' => 'dbserver.dev.92e15bbf-b08a-47a3-b8ae-8cc9684218f3.drush.in',
-  'port' => '12373',
+  'host' => 'dbserver.frenzy.92e15bbf-b08a-47a3-b8ae-8cc9684218f3.drush.in',
+  'port' => '12018',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );

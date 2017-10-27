@@ -64,16 +64,18 @@
   <nav class="navbar navbar-default" role="navigation">
     <div class="container">
       <div class="row">
-      <div class="navbar-header col-md-3">
+        <div class="navbar-header col-md-3">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+
         {% if page.header %}
           {{ page.header }}
         {% endif %}
+
       </div>
 
       <!-- Navigation -->
@@ -202,6 +204,7 @@
         <div class="content_layout">
           <div class={{contentlayout}}>
             {{ page.content }}
+
           </div>
         </div>
       {% endif %}
