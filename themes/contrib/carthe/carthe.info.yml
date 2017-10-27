@@ -21,4 +21,4 @@ regions:
 
 libraries:
   - 'carthe/global-styling'
-#  - 'carthe/bootstrap-scripts'
+  - 'carthe/bootstrap-scripts'
