@@ -172,3 +172,6 @@ ul.menu li {
   right: 3px;
   top: 10px;
 }
+div.links.inline {
+  padding-top: 20px;
+}
