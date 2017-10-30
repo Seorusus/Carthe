@@ -316,7 +316,7 @@ nav h2{
 }
 
 .menu-base-theme li a{
-  background: #FBFBFB
+  background: none;
 }
 
 .main-menu {
@@ -333,8 +333,9 @@ nav h2{
 }
 
 .menu-base-theme a{
-  border-bottom: 1px solid #EEF0F7;
+  border: none;
 }
+
 
 .menu-base-theme a span.sub-arrow{
   color: #999;

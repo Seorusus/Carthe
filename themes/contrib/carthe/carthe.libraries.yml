@@ -2,7 +2,8 @@ global-styling:
   css:
     theme:
       css/style.css: {}
-      css/base.css: {}
+      css/newbase.css: {}
+      css/custom-style.css: {}
 
 bootstrap-scripts:
   js:
