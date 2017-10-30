@@ -1,7 +1,8 @@
-body {
+/*
+body{
   min-width: 960px;
   color: #666666;
-  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-family: Verdana,Helvetica,Arial,sans-serif;
   font-size: 13px;
   background-color: #e9eaec;
   font-style: normal;
@@ -18,21 +19,23 @@ body {
   vertical-align: baseline;
   display: block;
 }
+
 .block-carthe-views-block-news-block-1-2 {
   font-size: 24px;
   color: #FFF;
   font-weight: normal;
   margin-bottom: 10px;
   margin: 0;
-  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-family: Verdana,Helvetica,Arial,sans-serif;
   letter-spacing: -0.05em;
 }
-div.main_container {
+
+div.main_container{
   width: 960px;
-  margin: auto;
-  background: #fff;
+  margin:auto;
+  background:#fff;
 }
-/*
+
 .container{
   width:100%;
   margin-right: auto;
