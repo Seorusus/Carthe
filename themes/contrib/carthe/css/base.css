@@ -1,8 +1,7 @@
-/*
-body{
+body {
   min-width: 960px;
   color: #666666;
-  font-family: Verdana,Helvetica,Arial,sans-serif;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
   font-size: 13px;
   background-color: #e9eaec;
   font-style: normal;
@@ -19,8 +18,7 @@ body{
   vertical-align: baseline;
   display: block;
 }
-
-
+/*
 .block-carthe-views-block-news-block-1-2 {
   font-size: 24px;
   color: #FFF;
