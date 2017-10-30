@@ -351,12 +351,6 @@ nav h2{
 
 /*breadcrumb*/
 
-.breadcrumb{
-  background: none;
-  padding: 0;
-  margin: 0;
-  border-bottom: 1px solid #eee;
-}
 
 .breadcrumb ul{
   padding: 0;
