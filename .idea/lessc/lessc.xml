@@ -14,7 +14,7 @@
                 </list>
               </option>
               <option name="id" value="0" />
-              <option name="includePattern" value="style.less; newbase.less" />
+              <option name="includePattern" value="style.less; newbase.less;" />
               <option name="lessDirPath" value="$PROJECT_DIR$/themes/contrib/carthe/less" />
               <option name="name" value="bootstrap" />
             </LessProfile>
