@@ -314,11 +314,11 @@ nav h2{
   z-index: 5;
   padding: 5px;
 }
-
+/*
 .menu-base-theme li a{
   background: #FBFBFB
 }
-
+*/
 .main-menu {
   position: relative;
   z-index: 9999;
@@ -331,10 +331,11 @@ nav h2{
   width: 100%;
   margin-top: 20px;
 }
-
+/*
 .menu-base-theme a{
   border-bottom: 1px solid #EEF0F7;
 }
+*/
 
 .menu-base-theme a span.sub-arrow{
   color: #999;
