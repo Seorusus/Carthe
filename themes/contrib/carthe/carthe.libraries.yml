@@ -3,6 +3,7 @@ global-styling:
     theme:
       css/style.css: {}
       css/newbase.css: {}
+      css/custom-style.css: {}
 
 bootstrap-scripts:
   js:
