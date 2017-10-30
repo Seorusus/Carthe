@@ -160,7 +160,7 @@ ul.menu li {
   vertical-align: middle;
   width: 50%;
   height: 50%;
-  float: left;
+ /* float: left; */
   padding: 10px;
 }
 .views-row {
