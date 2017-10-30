@@ -355,6 +355,7 @@ nav h2{
 
 .breadcrumb ul{
   padding: 0;
+  padding-top: 6px;
 }
 
 .breadcrumb ul li{
