@@ -27,14 +27,12 @@ body {
   font-family: Verdana, Helvetica, Arial, sans-serif;
   letter-spacing: -0.05em;
 }
-/*
-div.main_container{
+div.main_container {
   width: 960px;
-  margin:auto;
-  background:#fff;
-
+  margin: auto;
+  background: #fff;
 }
-
+/*
 .container{
   width:100%;
   margin-right: auto;
