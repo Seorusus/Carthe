@@ -40,7 +40,7 @@
     <js-placeholder token="{{ placeholder_token|raw }}">
   </head>
   <body{{ attributes.addClass(body_classes) }}>
- <!--   <div class="main_container"> -->
+    <div class="main_container">
       <a href="#main-content" class="visually-hidden focusable skip-link">
         {{ 'Skip to main content'|t }}
       </a>
@@ -48,6 +48,6 @@
       {{ page }}
       {{ page_bottom }}
       <js-bottom-placeholder token="{{ placeholder_token|raw }}">
- <!--   </div> -->
+    </div>
     </body>
 </html>
