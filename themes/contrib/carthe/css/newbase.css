@@ -27,6 +27,7 @@ body {
   font-family: Verdana, Helvetica, Arial, sans-serif;
   letter-spacing: -0.05em;
 }
+/*
 div.main_container {
   width: 960px;
   margin: auto;
@@ -39,6 +40,7 @@ div.main_container {
   padding-left: 15px;
   padding-right: 15px;
 }
+*/
 .navbar-default {
   margin: 0;
   z-index: 2;
